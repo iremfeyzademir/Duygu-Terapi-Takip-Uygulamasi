@@ -1,0 +1,130 @@
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.AssemblyReference.cache
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfoInputs.cache
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfo.cs
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.exe
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.deps.json
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.runtimeconfig.json
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\System.Data.SQLite.Linq.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTa.45491C0A.Up2Date
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\refint\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.genruntimeconfig.cache
+C:\Users\iremf\Desktop\c# Proje\obj\Debug\net6.0-windows\ref\TerapiTakipUygulamasi.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfo.cs
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\refint\TerapiTakipUygulamasi.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.MainForm.resources
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.exe
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.deps.json
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.runtimeconfig.json
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTa.45491C0A.Up2Date
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.genruntimeconfig.cache
+C:\Users\ulasd\OneDrive\Masaüstü\c# Projeirem\c# Proje\obj\Debug\net6.0-windows\ref\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.exe
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.deps.json
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.runtimeconfig.json
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeirem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.AssemblyReference.cache
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.MainForm.resources
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfoInputs.cache
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfo.cs
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTa.45491C0A.Up2Date
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\refint\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.genruntimeconfig.cache
+C:\Users\iremf\Desktop\c# Projeirem\obj\Debug\net6.0-windows\ref\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.exe
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.deps.json
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.runtimeconfig.json
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.AssemblyReference.cache
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.MainForm.resources
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfoInputs.cache
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.AssemblyInfo.cs
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTa.45491C0A.Up2Date
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\refint\TerapiTakipUygulamasi.dll
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.pdb
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\TerapiTakipUygulamasi.genruntimeconfig.cache
+C:\Users\iremf\Desktop\c# Projeiremdemir\obj\Debug\net6.0-windows\ref\TerapiTakipUygulamasi.dll
